@@ -1,4 +1,4 @@
 .vscode/
 mcdpg/__pycache__/
-test_*.py
-test.py
+dist/
+Pip*

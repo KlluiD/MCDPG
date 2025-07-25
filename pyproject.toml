@@ -1,0 +1,12 @@
+[project]
+name = "mcdpg"
+version = "0.0.1"
+authors = [
+    {name="KlluiD", email = "du_lingli@qq.com"}
+]
+
+[build-system]
+requires = [
+    "hatchling"
+]
+build-backend = "hatchling.backend"
